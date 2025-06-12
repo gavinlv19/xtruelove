@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gavinlv19.github.io/xtruelove/sitemap.xml
