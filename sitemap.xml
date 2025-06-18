@@ -7,36 +7,4 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
-    
-    <!-- 文章页面 -->
-    <url>
-        <loc>https://gavinlv19.github.io/xtruelove/posts/</loc>
-        <lastmod>2024-03-21</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- 标签页面 -->
-    <url>
-        <loc>https://gavinlv19.github.io/xtruelove/tags/</loc>
-        <lastmod>2024-03-21</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <!-- 分类页面 -->
-    <url>
-        <loc>https://gavinlv19.github.io/xtruelove/categories/</loc>
-        <lastmod>2024-03-21</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <!-- 关于页面 -->
-    <url>
-        <loc>https://gavinlv19.github.io/xtruelove/about/</loc>
-        <lastmod>2024-03-21</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
 </urlset>
