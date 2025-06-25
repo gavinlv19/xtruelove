@@ -1,6 +1,6 @@
 # xtruelove,网址大全
 --------------------------------
-> 2025-6-15 更新 -- 三哥
+> 2025-6-25 更新 -- 三哥
 
 
 ## 极品好站点
@@ -184,3 +184,9 @@ http://fulivip.com/lin/vip
 
 ## 油管账号
 * [韩国熊猫班 — 女团视频](https://www.youtube.com/@risesun-m4p)
+
+## X账号
+* [xtruelove666 — 花甲社区](https://x.com/xtruelove666)
+
+## facebook账号
+* [xtruelove520 - 花甲社区](https://www.facebook.com/xtruelove520)
